@@ -1,0 +1,13 @@
+.container {
+  width: 100%;
+  max-height: 75px;
+  height: 70px;
+  background-color: aqua;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  p {
+    margin: 0;
+  }
+}
